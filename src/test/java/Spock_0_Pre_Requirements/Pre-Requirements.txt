@@ -1,0 +1,33 @@
+   _____                  _
+  / ____|                | |
+ | (___  _ __   ___   ___| | __
+  \___ \| '_ \ / _ \ / __| |/ /
+  ____) | |_) | (_) | (__|   <
+ |_____/| .__/ \___/ \___|_|\_\
+        | |
+        |_|
+
+- Testing library
+- Using Groovy
+- In BDD style
+- More descriptive
+- Specifications as Documentation
+
+Spock - Maven:
+
+<dependency>
+    <groupId>org.spockframework</groupId>
+    <artifactId>spock-core</artifactId>
+    <version>1.1-groovy-2.4</version>
+    <scope>test</scope>
+</dependency>
+
+More about Spock:
+http://spockframework.org/spock/docs/1.1/index.html
+
+Online - Spock:
+
+http://meetspock.appspot.com/
+
+More about Groovy:
+http://groovy-lang.org/
