@@ -7,11 +7,12 @@
         | |
         |_|
 
-- Testing library
+- Testing framework
 - Using Groovy
 - In BDD style
 - More descriptive
 - Specifications as Documentation
+- Test doubles
 
 Spock - Maven:
 
